@@ -6,5 +6,5 @@ The only prediction is temperature vs latitude plot shows temperatures rises clo
 
 Clouds and humidity are consistent troughout the latitude degree levels.
 
-Conclusion
+### Conclusion
 Additional data and analysis is needed to find a probable relation between latitude and cloudiness and/or humidity.
