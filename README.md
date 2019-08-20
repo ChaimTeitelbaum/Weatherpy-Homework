@@ -1,5 +1,5 @@
-Weatherpy Analysis
-Facts
+# Weatherpy Analysis
+### Facts
 Latitude helps predict temperature, but shows no relation to humidity, clouds, and/or wind speed in a city.
 
 The only prediction is temperature vs latitude plot shows temperatures rises closer to the equator.
